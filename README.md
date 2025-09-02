@@ -33,7 +33,7 @@ I tinker with:
 
 ---
 
-⭐ *If you’re reading this: Remember, we all start as strugglers. The journey is what makes us developers.*
+
 
 <!--
 **MrinalSeth07/MrinalSeth07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
