@@ -32,11 +32,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=MrinalSeth07&theme=tokyonight&margin-w=10&margin-h=10)  
 
----
-
-### 🏆 LeetCode Contest Stats  
-
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=racist_coder&theme=dark)  
 
 ---
 
@@ -44,8 +39,7 @@
 - ✅ Started with **C++ basics**  
 - ✅ Learned **Python scripting**  
 - ✅ MySQL for handling data  
-- 🔄 Currently: Building small projects to connect these skills  
-- 🎯 Next Target: Mastering **DSA + Backend Development**  
+- 🔄 Currently: Building small projects to connect these skills   
 - 🚀 Future: Real-world impactful projects  
 
 ---
