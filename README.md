@@ -55,13 +55,6 @@ Currently practicing DSA & problem solving on **LeetCode**.
 
 &nbsp;
 
-## 🐞 &nbsp;From Bugs to Lessons  
-
-- *Segmentation fault in C++* → Learned memory management  
-- *SQL query not returning rows* → Learned debugging step by step  
-- *Python script breaking at edge cases* → Learned to test better  
-
-&nbsp;
 
 ## 🎮 &nbsp;Developer Progress  
 
@@ -78,4 +71,3 @@ Currently practicing DSA & problem solving on **LeetCode**.
 
 ---
 
-⭐ *If you’re reading this: Remember, we all start as strugglers. The journey is what makes us developers.*
