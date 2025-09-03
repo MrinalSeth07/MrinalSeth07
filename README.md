@@ -49,8 +49,7 @@ Currently practicing DSA & problem solving on **LeetCode**.
 - ✅ Started with **C++ basics**  
 - ✅ Learned **Python scripting**  
 - ✅ MySQL for handling data  
-- 🔄 Currently: Building small projects to connect these skills  
-- 🎯 Next Target: Mastering **DSA + Backend Development**  
+- 🔄 Currently: Building small projects to connect these skills   
 - 🚀 Future: Real-world impactful projects  
 
 &nbsp;
