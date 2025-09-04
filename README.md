@@ -20,11 +20,6 @@ Currently practicing DSA & problem solving on **LeetCode**.
 
 &nbsp;
 
-## 🏆 &nbsp;LeetCode Contest Stats  
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/racist_coder?theme=dark&font=Roboto&ext=contest)
-
-&nbsp;
 
 ## 📊 &nbsp;GitHub Stats  
 
