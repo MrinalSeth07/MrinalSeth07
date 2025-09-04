@@ -22,7 +22,7 @@ Currently practicing DSA & problem solving on **LeetCode**.
 
 ## 🏆 &nbsp;LeetCode Contest Stats  
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=racist_coder&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/racist_coder?theme=dark&font=Roboto&ext=contest)
 
 &nbsp;
 
@@ -36,11 +36,6 @@ Currently practicing DSA & problem solving on **LeetCode**.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=MrinalSeth07&theme=tokyonight&margin-w=10&margin-h=10)  
 
-&nbsp;
-
-## 🌌 &nbsp;3D Contribution Graph  
-
-![3D Profile](./profile-3d-contrib/profile-night-green.svg)
 
 &nbsp;
 
