@@ -27,9 +27,7 @@ Currently practicing DSA & problem solving on **LeetCode**.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrinalSeth07&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=MrinalSeth07&theme=tokyonight)  
 
-![Mrinal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrinalSeth07&theme=tokyo-night)  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MrinalSeth07&theme=tokyonight&margin-w=10&margin-h=10)  
 
 
 &nbsp;
