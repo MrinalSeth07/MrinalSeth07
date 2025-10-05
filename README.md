@@ -21,11 +21,7 @@ Currently practicing DSA & problem solving on **LeetCode**.
 &nbsp;
 
 
-## 📊 &nbsp;GitHub Stats  
-
-![Mrinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrinalSeth07&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrinalSeth07&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=MrinalSeth07&theme=tokyonight)  
+  
 
 
 
@@ -34,14 +30,7 @@ Currently practicing DSA & problem solving on **LeetCode**.
 <!-- Leetcode Section -->
 <h2 align="center">📊 LeetCode Info 📊</h2>
 <p align="center">
-  <a href="https://leetcode.com/u/Racist_coder/" target="_blank">
-    <img align="center" src="https://leetcard.jacoblin.cool/Racist_coder?theme=dark&font=Nunito&ext=heatmap" />
-  </a>
-</p>
-
-<!-- Contest Stats -->
-<h2 align="center">🏅 LeetCode Contest Stats 🏅</h2>
-<p align="center">
+  <!-- Contest Stats -->
   <a href="https://leetcode.com/u/Racist_coder/" target="_blank">
     <img align="center" src="https://leetcard.jacoblin.cool/Racist_coder?theme=dark&font=Nunito&ext=contest" />
   </a>
