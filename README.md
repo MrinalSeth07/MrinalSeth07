@@ -31,6 +31,13 @@ Currently practicing DSA & problem solving on **LeetCode**.
 
 
 &nbsp;
+<!-- Leetcode Section -->
+<h2 align="center">📊 LeetCode Info 📊</h2>
+<p align="center">
+  <a href="https://leetcode.com/u/Racist_coder/" target="_blank">
+    <img align="center" src="https://leetcard.jacoblin.cool/Racist_coder?theme=dark&font=Nunito&ext=heatmap" />
+  </a>
+</p>
 
 ## 🛤️ &nbsp;Struggler’s Roadmap  
 
