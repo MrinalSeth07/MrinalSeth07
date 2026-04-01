@@ -51,7 +51,7 @@ Currently practicing DSA & problem solving on **LeetCode**.
 ## 📫 &nbsp;Connect with Me  
 
 - GitHub: [@MrinalSeth07](https://github.com/MrinalSeth07)  
-- LeetCode: [racist_coder](https://leetcode.com/u/Mrinal_Seth_07)  
+- LeetCode: [Mrinal Seth](https://leetcode.com/u/Mrinal_Seth_07)  
 
 ---
 
