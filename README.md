@@ -2,7 +2,7 @@
 
 # Hi, I'm Mrinal Seth 👋
 
-I'm a B.Tech student interested in software engineering, backend systems, and applied machine learning. I enjoy taking an idea from the first prototype to a working application and figuring out how the pieces fit together.
+I'm a B.Tech student interested in software engineering, backend systems, and applied machine learning. I enjoy taking an idea from the first prototype to a working application .
 
 ## What I'm building
 
