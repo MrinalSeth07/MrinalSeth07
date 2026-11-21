@@ -1,52 +1,28 @@
 ![Hey there, I'm Mrinal. A struggler developer, learner and builder.](https://github.com/MrinalSeth07/MrinalSeth07/raw/main/header.gif)
 
-# 👋 &nbsp;Hi there
+# Hi, I'm Mrinal Seth 👋
 
-I'm Mrinal Seth, a struggler developer from India.  
-Not the best, not the worst — just figuring it out one commit at a time.  
-I enjoy learning by breaking → fixing → repeating, and exploring **C++**, **Python**, **MySQL**, and frameworks like **Hugging Face** & **Anaconda**.  
-Currently practicing DSA & problem solving on **LeetCode**.  
+I'm a B.Tech student interested in software engineering, backend systems, and applied machine learning. I enjoy taking an idea from the first prototype to a working application and figuring out how the pieces fit together.
 
-&nbsp;
+## What I'm building
 
-## 🛠️ &nbsp;Tech Stack  
+- **Smart Wishlist & Price Drop Alerts** — An e-commerce project for tracking saved products, viewing price history, and finding in-stock alternatives.
+- **Speech Emotion Recognition** — Experimenting with WavLM and the RAVDESS dataset to recognize emotions in speech.
+- **Emotion-aware English → Punjabi dubbing** — Exploring how to carry the speaker’s emotion into translated audio using speech alignment and text-to-speech.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)  
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)  
+## What I work with
 
-&nbsp;
+- **Languages** — C++, Python, JavaScript
+- **Web and backend** — React, Node.js, Express
+- **Machine learning** — PyTorch, Hugging Face Transformers
+- **Tools** — Git, Docker, VS Code
 
+## What I'm learning
 
-  
-
-
-
+I'm currently exploring system design, distributed systems and the backend design.
 
 &nbsp;
 
-
-## 🛤️ &nbsp;Struggler’s Roadmap  
-
-- ✅ Started with **C++ basics**  
-- ✅ Learned **Python scripting**  
-- ✅ MySQL for handling data  
-- 🔄 Currently: Building small projects to connect these skills   
-- 🚀 Future: Real-world impactful projects  
-
-&nbsp;
-
-
-## 🎮 &nbsp;Developer Progress  
-
-🧑‍💻 Level: 1 (Struggler Mode)  
-⚡ XP: ███▒▒▒▒▒▒▒ 30%  
-🎯 Goal: Reach "Guided Developer" level  
-
-&nbsp;
 
 ## 📫 &nbsp;Connect with Me  
 
